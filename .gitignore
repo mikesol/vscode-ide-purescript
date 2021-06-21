@@ -8,3 +8,4 @@ node_modules/
 /.psc-package/
 .spago/
 .psc-ide-port
+ide-purescript-*.vsix
