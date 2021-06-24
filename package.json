@@ -208,7 +208,7 @@
         },
         "purescript.addNpmPath": {
           "type": "boolean",
-          "default": true,
+          "default": false,
           "description": "Whether to add the local npm bin directory to the PATH for purs IDE server and build command.",
           "scope": "resource"
         },
