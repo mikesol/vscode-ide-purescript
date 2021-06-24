@@ -208,7 +208,7 @@
         },
         "purescript.addNpmPath": {
           "type": "boolean",
-          "default": false,
+          "default": true,
           "description": "Whether to add the local npm bin directory to the PATH for purs IDE server and build command.",
           "scope": "resource"
         },
@@ -276,7 +276,7 @@
     "@types/vscode": "^1.45.0",
     "mkdirp": "^0.5.1",
     "npm-run-all": "^4.1.3",
-    "purescript": "^0.14.0",
+    "purescript": "^0.14.2",
     "spago": "^0.20.3",
     "typescript": "^3.9.3",
     "vsce": "^1.93.0"
