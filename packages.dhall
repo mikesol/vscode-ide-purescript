@@ -144,8 +144,8 @@ let additions =
           , "test-unit"
           , "uuid"
           ]
-        , repo = "https://github.com/nwolverson/purescript-language-server.git"
-        , version = "f39340192dbbcbbd50effe69e88e269486794ed2"
+        , repo = "https://github.com/mikesol/purescript-language-server.git"
+        , version = "00ae31e0e9f56126077365874fb65fcb9624167c"
         }
       }
 
