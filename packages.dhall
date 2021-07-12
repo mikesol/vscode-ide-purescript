@@ -145,7 +145,7 @@ let additions =
           , "uuid"
           ]
         , repo = "https://github.com/mikesol/purescript-language-server.git"
-        , version = "00ae31e0e9f56126077365874fb65fcb9624167c"
+        , version = "a6ee0799320dc2cf5840b0574fa239709ab98d64"
         }
       }
 
